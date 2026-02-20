@@ -1,8 +1,8 @@
 <p align="center">
   
-<<img src="https://i.ibb.co/VYrTJK2p/programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative.jpg" alt="programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative" border="0">
+<img src="https://i.ibb.co/VYrTJK2p/programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative.jpg" alt="programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative" border="0">
 
-
+<h1 style="text-align: center;">Hii 👋 Iam Nihal jaiswal</h1>
 ### 💻 About Me
 🎓 Student and passionate developer  
 🌱 Currently learning Web Development, C++ and OOP  

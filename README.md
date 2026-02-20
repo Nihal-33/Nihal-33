@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nihal-33/Nihal-33/main/YOUR_IMAGE_NAME.jpg" width="100%" />
-<h1 align="center"> Hi 👋, I'm Nihal Jaiswal</h1>
-<h3 align="center"> passionate developer 
+  <img src="https://raw.githubusercontent.com/Nihal-33/Nihal-33/main/banner.png" width="100%" />
+
+
 
 ### 💻 About Me
 🎓 Student and passionate developer  

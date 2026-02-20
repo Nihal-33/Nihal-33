@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Nihal Jaiswal
 
-<!--
-**Nihal-33/Nihal-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+🎓 Student and passionate developer  
+🌱 Currently learning Web Development, C++ and OOP  
+🚀 Love building practical projects and improving problem-solving skills  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+💡 **Languages:** C++, JavaScript  
+🎨 **Frontend:** HTML, CSS  
+⚙️ **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📌 Projects 
+✅ Personal Portfolio Website  
+
+---
+
+### 📊 GitHub Stats
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihal-33&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-33&layout=compact)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Nihal-33)
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: your-nihaljaiswal397@gmail.com
+- 💼 LinkedIn: add-link
+- 🌐 Portfolio: add-link
+
+---
+
+⭐ *Always learning and building new things*

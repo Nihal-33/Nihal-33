@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nihal-33/Nihal-33/main/banner.jpg" width="100%" />
-
+  
+<<img src="https://i.ibb.co/VYrTJK2p/programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative.jpg" alt="programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative" border="0">
 
 
 ### 💻 About Me

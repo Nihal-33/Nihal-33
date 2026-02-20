@@ -1,4 +1,7 @@
-# Hi 👋, I'm Nihal Jaiswal
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pL6gxwbqRdM7CsrERh5zLLsVXyjz1VWV" width="100%" />
+<h1 align="center"> Hi 👋, I'm Nihal Jaiswal</h1>
+<h3 align="center"> passionate developer 
 
 ### 💻 About Me
 🎓 Student and passionate developer  

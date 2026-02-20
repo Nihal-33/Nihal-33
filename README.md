@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_RAW_LINK_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nihal-33/Nihal-33/main/banner.jpg" width="100%" />
 
 
 

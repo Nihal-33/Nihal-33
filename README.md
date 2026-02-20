@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: your-nihaljaiswal397@gmail.com
+- 📧 Email: nihaljaiswal397@gmail.com
 - 💼 LinkedIn: add-link
 - 🌐 Portfolio: add-link
 

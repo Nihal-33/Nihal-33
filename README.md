@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1pL6gxwbqRdM7CsrERh5zLLsVXyjz1VWV/view?usp=drive_link" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nihal-33/Nihal-33/main/YOUR_IMAGE_NAME.jpg" width="100%" />
 <h1 align="center"> Hi 👋, I'm Nihal Jaiswal</h1>
 <h3 align="center"> passionate developer 
 

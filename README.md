@@ -1,3 +1,4 @@
+<div align="center" style="width:100%;">
 <p align="center">
   
 <img src="https://i.ibb.co/VYrTJK2p/programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative.jpg" alt="programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative" border="0">
@@ -8,7 +9,8 @@
 🌱 Currently learning Web Development, C++ and OOP  
 🚀 Love building practical projects and improving problem-solving skills  
 📍 India  
-
+</div>
+<br>
 ---
 
 ### 🛠️ Tech Stack
